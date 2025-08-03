@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 
 export default function Home() {
   return (
-    <div>
-      BitMind Blog :)
-    </div>
+    <section>
+      <header>BitMind Blog</header>
+    </section>
   );
 }
